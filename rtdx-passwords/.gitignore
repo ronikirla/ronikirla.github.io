@@ -1,0 +1,13 @@
+# Python files
+__pycache__
+.mypy_cache
+.pytest_cache
+.vscode
+
+# My attempt to use .net
+net/
+
+# Notes
+notes.txt
+output.txt
+node_modules/
